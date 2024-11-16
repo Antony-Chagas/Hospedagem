@@ -13,7 +13,8 @@
         <Label Text="Cálculo da Diária"
                FontFamily="Kalam"
                FontSize="50"
-               TextColor="{StaticResource Primary}" />
+               TextColor="{StaticResource Primary}" 
+               />
 
         <Frame Padding="10">
             <VerticalStackLayout>
